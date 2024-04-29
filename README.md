@@ -11,7 +11,7 @@ Challenge 18 Social Network API
 - [Live-Screen-Recording-of-Application-Functionality](#live-screen-recording-of-application-functionality)
 
 - [Screenshots](#screenshots)
-
+  
 - [Technologies-Used](#technologies-used)
 
 - [Installation](#installation)
@@ -44,6 +44,12 @@ With the exception of the challenges faced, I did learn yet another powerful too
 
 
 ## Screenshots
+![Screenshot 2024-04-28-1 213406](https://github.com/Wormhole616/Social-Network-API/assets/144727575/f7d824b6-c720-46c1-a793-005e2cb967a3)
+![Screenshot 2024-04-28-2 213459](https://github.com/Wormhole616/Social-Network-API/assets/144727575/d407dd97-b1e1-4b37-8a9c-63dbed05b984)
+
+
+
+https://github.com/Wormhole616/Social-Network-API/assets/144727575/e764d838-85fb-4660-97ef-6985ba63280f
 
 
 
