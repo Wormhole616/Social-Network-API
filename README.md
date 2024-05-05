@@ -105,10 +105,7 @@ As of now the usage of this application can be conducted through spinning up the
 
 ## Suggested Future Development
 
-- Add additional seed data with the node package manager faker-js
-- Continue development of additional routes adding likes or up-votes
-- Create a front-end UI that will enable users to interact with the application in a cohesive and intuitive way
-- Include unit testing with Jest
+NA
 
 ## Contribution Guidelines
 
