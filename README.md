@@ -93,7 +93,7 @@ This application utilizes Node.js (v16.19.1), Express.js (v.14.18.2), JavaScript
 8. From there, you can utilize applications such as Insomnia to test the functionality of the API routes within the program and make edits to the code base.
 ## Credits
 
-The general structuring of routes and file organization followed much of the week-18 mini challenge. I worked with a tutor, Mila Hose who also helped me establish the general formatting of my controller files and my route files. Also Elizabeth Olsavsky, another student in the cohort helped me debug my createThought route, allowing me to add each thought to the thought array associated with each user.
+Gustavo Duque
 
 ## Features
 
